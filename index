@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class= "cabelhalho-imagem" src= "alurastart logo.png" alt= "logo de alura strat">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul >
+    </header>
+<scretion class="escoala">
+    <h2 class="escoal-titulo"> sobre a escola </h2>
+    <p class="escoal-texto-um"> Monster High é diferente de qualquer escola lá fora. Os filhos e filhas dos clássicos monstros da literatura, como Drácula, Frankenstein, Lobisomem, Múmia, entre outros, são amigos e frequentam a mesma escola especial, chamada Monster High. Onde mais você pode assistir a aulas como Mad Science, Home Ick e Dragonomics? Mas as aulas não são o que tornam o Monster High especial; são os estudantes fangásticos! Alunos Monster High vêm de todas as esferas da vida. De fantasmas e lobisomens a vampiros e monstros marinhos (e mais!), Todos são bem-vindos em Monster High. Monster High é um lugar onde os estudantes abraçam e celebram o que os torna diferentes. Nossos alunos também aceitam seus amigos e todas as suas qualidades únicas, porque é disso que se trata a verdadeira amizade.
+    </p>
+    <p class="escoal-texto-dois"></p>
+</scretion>
+</body>
+</html> 
